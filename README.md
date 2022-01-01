@@ -1,6 +1,6 @@
 <h1 align="center">Breakout-KD</h1>
 
-### About This tool
+### About This Game
 
 Breakout-KD is a fantastic breakout game. It's a python based game officialy made by me on december holiday. This game works on `Windows 7/8/10/11` & all windows platforms.
 
