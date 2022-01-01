@@ -17,4 +17,5 @@ pip install pyinstaller
 ```
 pip install auto-py-to-exe
 ```
-- Internet `50-100 MB`
+## Screenshots
+<img src="img/game.png"/>
