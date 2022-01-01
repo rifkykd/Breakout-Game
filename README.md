@@ -1,5 +1,12 @@
-# Breakout-Game
+# Breakout-KD
 
 ### About SEE YOU
 
-SEE YOU is a Tool which can be used to Get Microphone voice note from victim also get Live front camera Photos from victim phone, It's a Bash based script officialy made by Rifky KD. This tool works on both rooted Android device and Non-rooted Android device.
+Breakout-KD is a fantastic breakout game. It's a python based game officialy made by me on this holiday. This game works on `Windows 7/8/10/11` & all windows platforms.
+
+### REQUIREMENTS :
+- First make sure new version [**Python**](https://www.python.org/) installed in your system
+- I made this game on pygame module. So, Install [**pygame**](https://www.pygame.org/news) on your system
+  `pip install pygame`
+- For the complete installation you need atleast `500 MB` free space on your Device 
+- Internet `50-100 MB`
