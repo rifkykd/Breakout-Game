@@ -1,6 +1,6 @@
 # Breakout-KD
 
-### About SEE YOU
+### About This tool
 
 Breakout-KD is a fantastic breakout game. It's a python based game officialy made by me on this holiday. This game works on `Windows 7/8/10/11` & all windows platforms.
 
@@ -10,5 +10,11 @@ Breakout-KD is a fantastic breakout game. It's a python based game officialy mad
 ```
 pip install pygame
 ```
-- For the complete installation you need atleast `500 MB` free space on your Device 
+- To compile python file to exe we want to install [**pyinstaller**](https://www.pyinstaller.org/) & [**auto-py-to-exe**](https://pypi.org/project/auto-py-to-exe/) modules
+```
+pip install pyinstaller
+```
+```
+pip install auto-py-to-exe
+```
 - Internet `50-100 MB`
